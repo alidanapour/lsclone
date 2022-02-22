@@ -1,4 +1,4 @@
-# ls Clone
+# myls
 This is a project I wrote in C which mimics the 'ls' command from the UNIX file system. In this project, I learned how to use system calls to navigate the UNIX file system from a user-level program.
 
 To run this program, simply run make in the root directory and execute myls using two optional arguments: ```./myls [options] [directory]```
