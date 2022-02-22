@@ -11,7 +11,7 @@ Currently, the following options are supported: -i, -l, -R. These options can be
 
 ![image](images/myls-only.PNG)
 
-```./myls ../DiscordOnTheGo/``` will print all files and folders located in the specified directory.
+```./myls [directory]``` will print all files and folders located in the specified directory.
 
 ![image](images/myls-dir.PNG)
 
